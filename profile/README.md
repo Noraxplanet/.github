@@ -1,12 +1,21 @@
-## Hi there 👋
+# Aiko Discord Bot
 
-<!--
+Welcome to Aiko Discord Bot! 
 
-**Here are some ideas to get you started:**
+Aiko is a multi-purpose Discord bot built for fun.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Features
+- **Fun Commands:** Enjoy a variety of fun commands to entertain yourself and your server members.
+- **Utility Functions:** Aiko provides utility functions to enhance your Discord server experience.
+- **Customizable:** Tailor Aiko to fit your server's needs with customizable settings and commands.
+
+## How to Use
+1. Invite Aiko to your server using [this invite link](#).
+2. Type `!help` to get a list of available commands.
+3. Start exploring the various features Aiko has to offer!
+
+## Feedback
+If you have any feedback, suggestions, or encounter any issues, feel free to reach out to us.
+
+Happy chatting with Aiko!
+
