@@ -1,3 +1,4 @@
+![Aiko-banner](https://github.com/Aik0B0t/Aiko/assets/115330277/52128db6-969c-449d-8a46-45ca977ef1f8)
 # Aiko Discord Bot
 
 Welcome to Aiko Discord Bot! 
